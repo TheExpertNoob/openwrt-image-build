@@ -39,7 +39,7 @@ LEDE_REPOSITORY_PREFIX="openwrt_"
 
 
 IMAGE_BUILD_REPOSITORY?=http://development.piratebox.de/all/
-IMAGE_BUILD_FOLDER=$(HERE)/openwrt-imagebuilder-$(OPENWRT_VERSION)-$(TARGET)-$(TARGET_TYPE).Linux-x86_64/
+# IMAGE_BUILD_FOLDER=$(HERE)/openwrt-imagebuilder-$(OPENWRT_VERSION)-$(TARGET)-$(TARGET_TYPE).Linux-x86_64/
 
 
 # Prefix for the installer directory
